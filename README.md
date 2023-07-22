@@ -15,7 +15,7 @@ Profesor: Cristian Patiño
 ## Punto 5
 ![Punto 5](https://github.com/ccmendezt/taller10/blob/main/Assets/5.JPG)<br />
 ## Punto 6
-
+![Punto 5](https://github.com/ccmendezt/taller10/blob/main/Assets/6.JPG)<br />
 ## Punto 7
 
 ## Punto 8
