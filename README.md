@@ -23,13 +23,15 @@ Profesor: Cristian Patiño
 ## Punto 9
 ![Punto 9](https://github.com/ccmendezt/taller10/blob/main/Assets/9.JPG)<br />
 ## Punto 10
-
+![Punto 10](https://github.com/ccmendezt/taller10/blob/main/Assets/10.JPG)<br />
 ## Punto 11
-
+![Punto 11](https://github.com/ccmendezt/taller10/blob/main/Assets/11.JPG)<br />
 ## Punto 12
-
+![Punto 12](https://github.com/ccmendezt/taller10/blob/main/Assets/12.JPG)<br />
 ## Punto 13
-
+![Punto 13](https://github.com/ccmendezt/taller10/blob/main/Assets/13.JPG)<br />
 ## Punto 14
-
+![Punto 14](https://github.com/ccmendezt/taller10/blob/main/Assets/14.JPG)<br />
 ## Punto 15
+![Punto 15-1](https://github.com/ccmendezt/taller10/blob/main/Assets/15-1.JPG)<br />
+![Punto 15-2](https://github.com/ccmendezt/taller10/blob/main/Assets/15-2.JPG)<br />
